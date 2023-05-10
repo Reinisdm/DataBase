@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\csharp\uzd1\DataBase\DataBase\bin\Debug\Database1.mdf
+C:\Users\User\Desktop\csharp\uzd1\DataBase\DataBase\bin\Debug\Database1_log.ldf
+C:\Users\User\Desktop\csharp\uzd1\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\User\Desktop\csharp\uzd1\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\User\Desktop\csharp\uzd1\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\User\Desktop\csharp\uzd1\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\csharp\uzd1\DataBase\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\csharp\uzd1\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\User\Desktop\csharp\uzd1\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\User\Desktop\csharp\uzd1\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\User\Desktop\csharp\uzd1\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\csharp\uzd1\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\User\Desktop\csharp\uzd1\DataBase\DataBase\obj\Debug\DataBase.pdb
